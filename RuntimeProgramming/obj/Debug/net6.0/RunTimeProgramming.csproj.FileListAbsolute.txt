@@ -1,0 +1,16 @@
+C:\Users\Ketul.Kothari\source\repos\DnyamicProgramming\DnyamicProgramming\bin\Debug\net6.0\RunTimeProgramming.exe
+C:\Users\Ketul.Kothari\source\repos\DnyamicProgramming\DnyamicProgramming\bin\Debug\net6.0\TestLibrary.dll
+C:\Users\Ketul.Kothari\source\repos\DnyamicProgramming\DnyamicProgramming\bin\Debug\net6.0\RunTimeProgramming.deps.json
+C:\Users\Ketul.Kothari\source\repos\DnyamicProgramming\DnyamicProgramming\bin\Debug\net6.0\RunTimeProgramming.runtimeconfig.json
+C:\Users\Ketul.Kothari\source\repos\DnyamicProgramming\DnyamicProgramming\bin\Debug\net6.0\RunTimeProgramming.dll
+C:\Users\Ketul.Kothari\source\repos\DnyamicProgramming\DnyamicProgramming\bin\Debug\net6.0\RunTimeProgramming.pdb
+C:\Users\Ketul.Kothari\source\repos\DnyamicProgramming\DnyamicProgramming\obj\Debug\net6.0\RunTimeProgramming.csproj.AssemblyReference.cache
+C:\Users\Ketul.Kothari\source\repos\DnyamicProgramming\DnyamicProgramming\obj\Debug\net6.0\RunTimeProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketul.Kothari\source\repos\DnyamicProgramming\DnyamicProgramming\obj\Debug\net6.0\RunTimeProgramming.AssemblyInfoInputs.cache
+C:\Users\Ketul.Kothari\source\repos\DnyamicProgramming\DnyamicProgramming\obj\Debug\net6.0\RunTimeProgramming.AssemblyInfo.cs
+C:\Users\Ketul.Kothari\source\repos\DnyamicProgramming\DnyamicProgramming\obj\Debug\net6.0\RunTimeProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Ketul.Kothari\source\repos\DnyamicProgramming\DnyamicProgramming\obj\Debug\net6.0\RunTimeProgramming.dll
+C:\Users\Ketul.Kothari\source\repos\DnyamicProgramming\DnyamicProgramming\obj\Debug\net6.0\refint\RunTimeProgramming.dll
+C:\Users\Ketul.Kothari\source\repos\DnyamicProgramming\DnyamicProgramming\obj\Debug\net6.0\RunTimeProgramming.pdb
+C:\Users\Ketul.Kothari\source\repos\DnyamicProgramming\DnyamicProgramming\obj\Debug\net6.0\RunTimeProgramming.genruntimeconfig.cache
+C:\Users\Ketul.Kothari\source\repos\DnyamicProgramming\DnyamicProgramming\obj\Debug\net6.0\ref\RunTimeProgramming.dll
